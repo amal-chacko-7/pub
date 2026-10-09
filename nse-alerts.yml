@@ -1,0 +1,5 @@
+RELIANCE:
+  GTE: 100
+  LTE: 25
+TCS:
+  LTE: 50
