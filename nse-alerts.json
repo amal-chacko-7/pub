@@ -6,6 +6,12 @@
     "VALUE": 1345
   },
   {
+    "SYMBOL": "ADANIGREEN",
+    "NAME": "test",
+    "RULE": "GTE",
+    "VALUE": 100
+  },
+  {
     "SYMBOL": "SONACOMS",
     "NAME": "ttm squeeze",
     "RULE": "GTE",
