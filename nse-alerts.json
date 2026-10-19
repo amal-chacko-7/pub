@@ -1,0 +1,26 @@
+[
+  {
+    "SYMBOL": "ADANIGREEN",
+    "NAME": "ttm squeeze",
+    "RULE": "GTE",
+    "VALUE": 1345
+  },
+  {
+    "SYMBOL": "SONACOMS",
+    "NAME": "ttm squeeze",
+    "RULE": "GTE",
+    "VALUE": 837
+  },
+  {
+    "SYMBOL": "LALPATHLAB",
+    "NAME": "ttm squeeze",
+    "RULE": "GTE",
+    "VALUE": 2010
+  },
+  {
+    "SYMBOL": "MBAPL",
+    "NAME": "ttm squeeze",
+    "RULE": "GTE",
+    "VALUE": 173.5
+  }
+]
